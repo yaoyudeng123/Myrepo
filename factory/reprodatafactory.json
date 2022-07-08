@@ -1,0 +1,9 @@
+{
+	"name": "reprodatafactory",
+	"location": "chinaeast2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9020a7e-329b-49d4-869a-de757877167c",
+		"tenantId": "954ddad8-66d7-47a8-8f9f-1316152d9587"
+	}
+}

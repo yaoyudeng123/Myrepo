@@ -1,0 +1,19 @@
+{
+	"name": "Binary5",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage5",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "students.txt",
+				"container": "0523containerforadf"
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
